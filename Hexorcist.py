@@ -1,5 +1,3 @@
-# Hexorcist.py
-
 def to_decimal(number_string, original_base):
     digits = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     number_string = number_string.upper()
